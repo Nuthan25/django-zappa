@@ -1,0 +1,12 @@
+{
+    "dev": {
+        "aws_region": "us-west-2",
+        "django_settings": "testzap.settings",
+        "profile_name": "default",
+        "project_name": "testzap",
+        "runtime": "python3.11",
+        "s3_bucket": "zappa-rxq6m9qtj",
+        "api_key_required": true,
+        "api_key": "auGtKkFK274VIQLV1mX3s2rFMvhN1lP42DXMk5Nd"
+    }
+}
